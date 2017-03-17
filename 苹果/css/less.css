@@ -1,0 +1,123 @@
+body {
+  color: #000;
+}
+.one {
+  width: 400px;
+  height: 400px;
+  border: 1px solid red;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-box-shadow: 10px 10px 5px #000 inset;
+  -moz-box-shadow: 10px 10px 5px #000 inset;
+  -ms-box-shadow: 10px 10px 5px #000 inset;
+  -o-box-shadow: 10px 10px 5px #000 inset;
+  box-shadow: 10px 10px 5px #000 inset;
+}
+.two {
+  width: 300px;
+  height: 300px;
+  border: 1px solid blue;
+  -moz-border-radius: 10px 20px;
+  -webkit-border-radius: 10px 20px;
+  -ms-border-radius: 10px 20px;
+  -o-border-radius: 10px 20px;
+  border-radius: 10px 20px;
+  -webkit-box-shadow: 10px 10px 10px yellow;
+  -moz-box-shadow: 10px 10px 10px yellow;
+  -ms-box-shadow: 10px 10px 10px yellow;
+  -o-box-shadow: 10px 10px 10px yellow;
+  box-shadow: 10px 10px 10px yellow;
+}
+.three {
+  width: 200px;
+  height: 200px;
+  border: 1px solid blue;
+  -moz-border-radius: 10px 20px 30px;
+  -webkit-border-radius: 10px 20px 30px;
+  -ms-border-radius: 10px 20px 30px;
+  -o-border-radius: 10px 20px 30px;
+  border-radius: 10px 20px 30px;
+  -webkit-box-shadow: 10px 10px 20px #000 inset;
+  -moz-box-shadow: 10px 10px 20px #000 inset;
+  -ms-box-shadow: 10px 10px 20px #000 inset;
+  -o-box-shadow: 10px 10px 20px #000 inset;
+  box-shadow: 10px 10px 20px #000 inset;
+}
+.four {
+  width: 100px;
+  height: 100px;
+  border: 1px solid blue;
+  -moz-border-radius: 10px 20px 30px 40px;
+  -webkit-border-radius: 10px 20px 30px 40px;
+  -ms-border-radius: 10px 20px 30px 40px;
+  -o-border-radius: 10px 20px 30px 40px;
+  border-radius: 10px 20px 30px 40px;
+  -webkit-box-shadow: -10px -10px -10px #344;
+  -moz-box-shadow: -10px -10px -10px #344;
+  -ms-box-shadow: -10px -10px -10px #344;
+  -o-box-shadow: -10px -10px -10px #344;
+  box-shadow: -10px -10px -10px #344;
+}
+.five {
+  width: 500px;
+  height: 500px;
+  border: red solid 1px;
+  border-image-source: url(bk1.png);
+  border-image-width: 30px;
+  border-image-slice: 25% 25% 25% 25%;
+  border-image-repeat: round;
+  border-image-outset: 30px;
+  margin: auto;
+  overflow: hidden;
+}
+div1 {
+  width: 8.33333333%;
+  border: 1px solid blueviolet;
+}
+div2 {
+  width: 16.66666667%;
+  border: 1px solid blueviolet;
+}
+div3 {
+  width: 25%;
+  border: 1px solid blueviolet;
+}
+div4 {
+  width: 33.33333333%;
+  border: 1px solid blueviolet;
+}
+div5 {
+  width: 41.66666667%;
+  border: 1px solid blueviolet;
+}
+div6 {
+  width: 50%;
+  border: 1px solid blueviolet;
+}
+div7 {
+  width: 58.33333333%;
+  border: 1px solid blueviolet;
+}
+div8 {
+  width: 66.66666667%;
+  border: 1px solid blueviolet;
+}
+div9 {
+  width: 75%;
+  border: 1px solid blueviolet;
+}
+div10 {
+  width: 83.33333333%;
+  border: 1px solid blueviolet;
+}
+div11 {
+  width: 91.66666667%;
+  border: 1px solid blueviolet;
+}
+div12 {
+  width: 100%;
+  border: 1px solid blueviolet;
+}

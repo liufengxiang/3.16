@@ -1,0 +1,124 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 212685 */
+    src: url('//at.alicdn.com/t/font_c6tz5f9oj32138fr.eot');
+    src: url('//at.alicdn.com/t/font_c6tz5f9oj32138fr.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_c6tz5f9oj32138fr.woff') format('woff'),
+    url('//at.alicdn.com/t/font_c6tz5f9oj32138fr.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_c6tz5f9oj32138fr.svg#iconfont') format('svg');
+}
+.iconfont{
+    font-family:"iconfont" !important;
+    font-size:20px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;}
+.header{
+    background: #444;
+    line-height: 1;
+    top: -40px;
+    width: 100%;
+    right: 0;
+    height: 40px;
+}
+.header .header_ad{
+    display: block;
+    line-height: 40px;
+    overflow: hidden;
+    text-decoration: none;
+    text-align: right;
+    width: 976px;
+    height: 40px;
+    margin: 0 auto;
+    color: #fff;
+}
+/*导航*/
+.lfx_nav{
+    /*position: absolute;*/
+    /*top: 0;*/
+    /*right: 0;*/
+    /*left: 0;*/
+    /*margin: 0;*/
+    width: 100%;
+    min-width: 1024px;
+    height: 48px;
+    max-height: 44px;
+    background: #000000;
+    /*background: rgba(0,0,0,1);*/
+    font-size: 17px;
+}
+.lfx_nav .nav_con{
+    margin: 0 auto;
+    max-width: 980px;
+    padding: 0 22px;
+    position: relative;
+    z-index: 2;
+}
+.nav_list .list_con1{
+    float: left;
+}
+.nav_list li{
+    padding: 0 3.8%;
+    line-height: 44px;
+}
+.nav_list .list_con1 a{
+    font-color:#fff;
+    font-size: 14px;
+    color: #ffffff;
+}
+/*banner*/
+.banner{
+    width: 100%;
+    height: 540px;
+    position: relative;
+    margin: 0 auto;
+}
+.banner a{
+    height: 100%;
+}
+.banner .bp{
+    height: 125px;
+    width:100%;
+    text-align: center;
+    /*vertical-align: middle;*/
+    /*display: table-cell;*/
+    /*position: absolute;*/
+    /*line-height: 125px;*/
+}
+.banner a img{
+    width:100%;
+    height: 415px;
+}
+.banner .bp h1{
+    font-size: 30px;
+    margin:  auto;
+    text-align: center;
+    color: #000000;
+}
+/*4张图片*/
+.four{
+    width: 100%;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 5px;
+}
+.four ul li{
+    width: 25%;
+    height: 100%;
+    float: left;
+    padding: 0 2px;
+    /*margin-left: 2px;*/
+    box-sizing: border-box;
+}
+/*一行*/
+.footer{
+    font-size: 11px;
+    line-height: 1.45455;
+    font-weight: 400;
+    letter-spacing: .005em;
+    background-color: #f2f2f2;
+    color: #333;
+    min-width: 1024px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+}
